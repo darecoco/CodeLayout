@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">CodeLayout</string>
-    <string name = "greeting">안녕하세요~미나상~</string>
+    <string name="greeting">안녕하세요~미나상~</string>
+    <string name = "btn1_text">네이버 바로가기</string>
 </resources>
